@@ -1,0 +1,8 @@
+require_relative "New_project_2.rb"
+
+include Add_emp_detail
+include Update_Employee_Detail
+include Delete_Employee_Detail
+include View_Employee_Detail
+include Employee_controller
+Employee_controller.Employee_
